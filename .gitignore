@@ -1,6 +1,4 @@
 bin/*
 logs/*
-built.xml
 eula.txt
 server.properties
-target/*
