@@ -1,0 +1,17 @@
+name: Sampler
+version: 1.0.0
+description: Do a simple plugin test
+author: srbinas (Daniel Nikolov)
+
+main: de.daniel.spigot.sampler.Activator
+
+commands:  
+  hallo: 
+    permission: sampler
+  hallo2: 
+    permission: samplerop
+permissions: 
+  sampler: 
+    default: true
+  samplerop: 
+    default: op
